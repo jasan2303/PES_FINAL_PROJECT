@@ -30,5 +30,7 @@ drone's rotors which in turn helps in balancing the drone. HEre the PWM signals 
  
  The ROLL and PITCH are Logged through UART on the serial monitor. The float operations while calculating the ROLL and PITCH angles are avoided as the board does not have the 
  seperate hardware for it, therby optimizing the functionality.
-              
+ 
+ The module can be used to stabalize the drone flight by compensating for Roll and pitch angles by driving the rotors of the drone using the PWM signals used to drive the LED
+ in the project. 
               
