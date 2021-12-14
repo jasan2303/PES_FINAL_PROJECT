@@ -34,3 +34,7 @@ drone's rotors which in turn helps in balancing the drone. HEre the PWM signals 
  The module can be used to stabalize the drone flight by compensating for Roll and pitch angles by driving the rotors of the drone using the PWM signals used to drive the LED
  in the project. 
               
+Calibration Demo video link: https://drive.google.com/file/d/1Bd5fQe0omt4NEiHL5SJzgTUQuCqNPjci/view?usp=drivesdk
+
+Working Demo Link: https://drive.google.com/file/d/1Bjwcer4iBAL3y5geD6kVTXvrYbi5gCNA/view?usp=drivesdk
+
