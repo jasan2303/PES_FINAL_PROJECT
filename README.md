@@ -38,3 +38,7 @@ Calibration Demo video link: https://drive.google.com/file/d/1Bd5fQe0omt4NEiHL5S
 
 Working Demo Link: https://drive.google.com/file/d/1Bjwcer4iBAL3y5geD6kVTXvrYbi5gCNA/view?usp=drivesdk
 
+Project Proposal file with references is also uploaded.
+
+Thank you
+
